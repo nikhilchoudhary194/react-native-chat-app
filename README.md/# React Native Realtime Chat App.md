@@ -4,6 +4,12 @@ A modern and fully functional real-time chat application built using **React Nat
 
 ---
 
+## Demo
+
+https://github.com/user-attachments/assets/53a52278-8e42-4cdd-b2fd-2621ea982495
+
+---
+
 ## Features
 
 ### User Authentication
@@ -59,17 +65,8 @@ A modern and fully functional real-time chat application built using **React Nat
 - **TailwindCSS via NativeWind**
 - **React Navigation**
 - **TypeScript / javaScript**
-
----
-
-## ScreenShot
-
-![simple-login-form](https://github.com/user-attachments/assets/b67db9b9-8400-4787-8a23-239ec57a99ce)
-
-
-
-
-
+- **React Native Paper**
+- **Firestore**
 
 ---
 
