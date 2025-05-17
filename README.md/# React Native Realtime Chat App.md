@@ -52,15 +52,6 @@ A modern and fully functional real-time chat application built using **React Nat
 
 ---
 
-## Demo
-
-<p align="center">
-<img src="assets/demo/demo.mp4"
-width="260" alt="Live chat demo />
-</p>
-
----
-
 ## Tech Stack
 
 - **React Native (with Expo or CLI)**
@@ -73,13 +64,20 @@ width="260" alt="Live chat demo />
 
 ## ScreenShot
 
-![Login screen](assets/screenshot/Login.jpg)
-![SignUp screen](assets/screenshot/SignUp.jpg)
-![Chat screen](assets/screenshot/Chat.jpg)
-![Delete screen](assets/screenshot/Delete.jpg)
-![Group screen](assets/screenshot/Group.jpg)
-![IneerChat screen](assets/screenshot/IneerChat.jpg)
-![Setting screen](assets/screenshot/Setting.jpg)
+<table>
+  <tr>
+    <td align="center"><img src="assets/screenshot/Login.jpg" width="220"/></td>
+    <td align="center"><img src="assets/screenshot/SignUp.jpg" width="220"/></td>
+    <td align="center"><img src="assets/screenshot/Chat.jpg" width="220"/></td>
+    <td align="center"><img src="assets/screenshot/Delete.jpg" width="220"/></td>
+    <td align="center"><img src="assets/screenshot/Group.jpg" width="220"/></td>
+    <td align="center"><img src="assets/screenshot/IneerChat.jpg" width="220"/></td>
+    <td align="center"><img src="assets/screenshot/Setting.jpg" width="220"/></td>
+      </tr>
+      <tr>
+        <td>Login</td><td>SignUp</td><td>Chat</td><td>Delete</td><td>Group</td><td>IneerChat</td><td>Setting</td>
+      </tr>
+    </table>
 
 
 ---
