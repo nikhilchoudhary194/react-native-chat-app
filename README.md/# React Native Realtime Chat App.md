@@ -64,6 +64,24 @@ A modern and fully functional real-time chat application built using **React Nat
 
 ## ScreenShot
 
+![Login png](https://github.com/user-attachments/assets/5072899e-7bff-4d99-817d-55492a105615)
+
+![SignUp png](https://github.com/user-attachments/assets/d45d89a6-f78f-4c18-8b14-9aa8cf872ba8)
+
+![Chat png](https://github.com/user-attachments/assets/27bd43a1-b148-4e50-96be-0d32b7bf0c50)
+
+![Group png](https://github.com/user-attachments/assets/78b9f4ee-4ac7-4498-8907-09b1fa729b07)
+
+![Delete png](https://github.com/user-attachments/assets/01ac5a00-73f1-477e-8917-37ffeacd59d8)
+
+![Setting png](https://github.com/user-attachments/assets/9e292694-c8bb-4d77-9bb3-f1b505588f9b)
+
+![InnerChat png](https://github.com/user-attachments/assets/a4127ee3-68e2-4005-9e54-4d4058dd3fe3)
+
+
+
+
+
 ---
 
 ## Getting Started
