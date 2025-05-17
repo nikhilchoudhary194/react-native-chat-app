@@ -64,22 +64,6 @@ A modern and fully functional real-time chat application built using **React Nat
 
 ## ScreenShot
 
-<table>
-  <tr>
-    <td align="center"><img src="assets/screenshot/Login.jpg" width="220"/></td>
-    <td align="center"><img src="assets/screenshot/SignUp.jpg" width="220"/></td>
-    <td align="center"><img src="assets/screenshot/Chat.jpg" width="220"/></td>
-    <td align="center"><img src="assets/screenshot/Delete.jpg" width="220"/></td>
-    <td align="center"><img src="assets/screenshot/Group.jpg" width="220"/></td>
-    <td align="center"><img src="assets/screenshot/IneerChat.jpg" width="220"/></td>
-    <td align="center"><img src="assets/screenshot/Setting.jpg" width="220"/></td>
-      </tr>
-      <tr>
-        <td>Login</td><td>SignUp</td><td>Chat</td><td>Delete</td><td>Group</td><td>IneerChat</td><td>Setting</td>
-      </tr>
-    </table>
-
-
 ---
 
 ## Getting Started
